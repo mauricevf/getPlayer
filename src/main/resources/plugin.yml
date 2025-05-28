@@ -1,0 +1,4 @@
+name: getPlayer
+version: '1.0-SNAPSHOT'
+main: org.maurijst.GradleTest.getPlayer.main
+api-version: '1.20'
